@@ -125,16 +125,17 @@ The screenshot should show the browser's extension manager and the extension(s) 
 
 ---
 
-## 📁 Project Structure
-
+```text
 CYBER-SECURITY-TASK-7/
+│
 ├── README.md
+│
 ├── Report/
 │   └── browser-extension-security-report.md
+│
 └── Screenshots/
     └── extension-review.png
 ```
-
 ---
 
 ## 🎯 Learning Outcomes
