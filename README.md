@@ -110,20 +110,6 @@ The actual impact depends on the permissions granted to the extension and what t
 
 ---
 
-## 📸 Evidence
-
-Screenshots can be included to document the extension review and removal process.
-
-Recommended screenshot:
-
-```text id="f7q2km"
-Screenshots/
-└── extension-review.png
-```
-
-The screenshot should show the browser's extension manager and the extension(s) reviewed or removed.
-
----
 ## 📁 Project Structure
 ```
 
@@ -132,10 +118,8 @@ CYBER-SECURITY-TASK-7/
 ├── README.md
 │
 ├── Report/
-│   └── browser-extension-security-report.md
-│
-└── Screenshots/
-    └── extension-review.png
+   └── browser-extension-security-report.md
+
 ```
 ---
 
