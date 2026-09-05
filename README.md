@@ -12,7 +12,7 @@ Browser extensions can improve functionality, but some extensions may request ex
 
 ## 🛠️ Tools Used
 
-* 🌐 Google Chrome / Mozilla Firefox
+* 🌐 Google Chrome / Mozilla Firefox / Microsoft Edge
 * 🔧 Browser Extension Manager
 * 🔍 Extension Permissions and Reviews
 * 💻 Web Browser Security Settings
