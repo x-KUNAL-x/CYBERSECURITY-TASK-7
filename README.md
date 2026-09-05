@@ -124,8 +124,9 @@ Screenshots/
 The screenshot should show the browser's extension manager and the extension(s) reviewed or removed.
 
 ---
+## 📁 Project Structure
+```
 
-```text
 CYBER-SECURITY-TASK-7/
 │
 ├── README.md
